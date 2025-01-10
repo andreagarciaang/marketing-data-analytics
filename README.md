@@ -28,9 +28,3 @@ Using Python (Pandas and Matplotlib/Seaborn), I process and clean the data, calc
 - **Google Data Studio**: For creating visualizations and reports.
 - **GitHub**: For version control and collaboration.
 
-### Getting Started:
-To get started with the project, follow these steps:
-
-1. **Clone the repository**:
-   ```bash
-   git clone https://github.com/yourusername/marketing-data-analytics.git
