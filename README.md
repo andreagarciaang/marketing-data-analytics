@@ -1,4 +1,4 @@
-# marketing-data-analytics
+
 # Marketing Data Analytics
 
 Welcome to the **Marketing Data Analytics** project! 🚀
